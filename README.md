@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gergely Pinke
 
-<!--
-**gregpinke/gregpinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python automation developer focused on data pipelines, APIs, and trading tools.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Crypto Market Data Pipeline  
+  Python tool that downloads OHLCV cryptocurrency data from the Binance API and exports CSV datasets.
+
+- Web Scraper (in progress)
+
+- Automation Scripts (in progress)
+
+## Skills
+
+Python • APIs • Data pipelines • Web scraping • TradingView Pine Script
+
+## Interests
+
+Algorithmic trading, automation tools, data engineering, and research workflows.
