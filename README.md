@@ -60,7 +60,7 @@ Designed to automate common file management tasks.
 
 ---
 
-### TradingView Pine Script Tools *(in development)*
+### TradingView Pine Script Tools
 
 Collection of TradingView indicators and tools written in Pine Script for market structure analysis and trading research.
 
