@@ -1,8 +1,11 @@
 # Gergely Pinke
+Python • Automation • Web Scraping • APIs • Data Pipelines
 
-Python automation developer focused on data pipelines, APIs, workflow automation, and trading tools.
+Python automation developer building tools for **data collection, APIs, and workflow automation**.
 
-I build practical tools that automate data collection, processing, and organization — with an emphasis on clear architecture, reliability, and real-world use cases.
+I focus on practical software that automates repetitive tasks, collects structured data from external sources, and transforms raw information into usable datasets.
+
+My projects emphasize **clean architecture, reliability, and real-world automation use cases**.
 
 ---
 
@@ -10,43 +13,56 @@ I build practical tools that automate data collection, processing, and organizat
 
 ### Crypto Market Data Pipeline
 
-Python tool that downloads historical OHLCV cryptocurrency market data from the Binance API and exports clean CSV datasets for research and analysis.
+Python tool that downloads historical OHLCV cryptocurrency market data from the Binance REST API and exports clean CSV datasets for research and analysis.
 
-**Tech:** Python, REST APIs, data pipelines
+**Highlights**
+
+- Binance API integration
+- configurable symbols and intervals
+- structured dataset generation
+- command-line execution
+
+**Tech:** Python, REST APIs, pandas, data pipelines
+
+---
+
+### Web Content Scraper
+
+Modular Python scraper that extracts structured data from paginated catalogue-style websites and exports clean datasets.
+
+Demonstrated using the Books to Scrape dataset.
+
+**Highlights**
+
+- paginated scraping
+- structured data extraction
+- normalized dataset schema
+- CLI execution with configurable parameters
+
+**Tech:** Python, BeautifulSoup, requests, pandas
 
 ---
 
 ### Python File Organizer
 
-Command-line automation tool that organizes messy folders into categorized directory structures using configurable rules.
+Command-line automation tool that organizes messy directories into structured folders using configurable rules.
 
-**Features**
+Designed to automate common file management tasks.
 
-* configurable file categorization
-* dry-run safety mode
-* duplicate-safe renaming
-* summary reports
-* automated tests
+**Highlights**
 
-**Tech:** Python, CLI tools, automation
+- configurable file categorization
+- safe dry-run mode
+- duplicate-safe renaming
+- summary reporting
 
----
-
-### Website Data Scraper
-
-General-purpose web scraping tool for extracting structured data from websites and exporting datasets (CSV / JSON).
-
-Designed for use cases such as research datasets, product data collection, and market monitoring.
-
-**Tech:** Python, BeautifulSoup, data extraction
+**Tech:** Python, CLI tools, filesystem automation
 
 ---
 
 ### TradingView Pine Script Tools *(in development)*
 
-Collection of custom TradingView indicators and tools written in Pine Script.
-
-The repository will include indicators, strategy components, and charting utilities used in algorithmic trading research.
+Collection of TradingView indicators and tools written in Pine Script for market structure analysis and trading research.
 
 **Tech:** Pine Script, TradingView
 
@@ -54,13 +70,19 @@ The repository will include indicators, strategy components, and charting utilit
 
 # Skills
 
-Python • APIs • Web scraping • Automation tools • Data pipelines • TradingView Pine Script
+Python  
+Automation scripts  
+Web scraping  
+API integrations  
+Data pipelines  
+Command-line tools  
+TradingView Pine Script
 
 ---
 
 # Interests
 
-Algorithmic trading
-Automation and workflow tooling
-Data engineering
+Algorithmic trading  
+Data engineering  
+Automation systems  
 Market research infrastructure
